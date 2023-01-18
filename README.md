@@ -1,14 +1,5 @@
 # Házi feladat specifikáció
 
-Információk [itt](https://viauac00.github.io/laborok/hf)
-
-## Mobil- és webes szoftverek
-### 2022.10.20.
-### Tuti Tippek App
-### Jankó András - NHVU6N
-### 2000.andras.janko@gmail.com
-### Laborvezető: Reiter Márton
-
 ## Bemutatás
 
 Nemrég felkértek a közeli baráti társaságomból, hogy csináljak nekik egy appot, amiben az előfizetőikhez napi tippeket tudnának eljuttatni.(Nem támogatom a szerencsejátékot de nagy házinak tökéletes.) Egy olyan alkalmazás lesz ez, amiben lehet regisztrálni, és meglehet tekinteni a napi tippeket, akinek pedig olyan jogai vannak fel is tud tölteni rekordokat az adatbázisba.  

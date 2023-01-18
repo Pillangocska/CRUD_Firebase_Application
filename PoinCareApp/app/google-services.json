@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939504884353",
+    "project_id": "poincareapp",
+    "storage_bucket": "poincareapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939504884353:android:8ccd3bac126917c31e8b80",
+        "android_client_info": {
+          "package_name": "com.example.poincareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939504884353-l6vc9rjvi5v028a6j4csq0jmgij8fbr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6siCnxhffBB68A2WHvTNWPmMemy1eSFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939504884353-l6vc9rjvi5v028a6j4csq0jmgij8fbr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
